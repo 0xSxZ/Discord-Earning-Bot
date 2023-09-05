@@ -1,0 +1,50 @@
+
+
+
+    /*
+    if (message.content.startsWith("+bal") || message.content.startsWith("+balance")) {
+        
+        balance(message)
+
+    }else if (message.content == "+earn") {
+    
+        earn(message, args, pe)
+    
+    }else if(message.content.startsWith("+cashout")){
+    
+        cashout(client, message, ecoClient, args)
+    
+    }else if(message.content.startsWith("+advertise")){
+
+        createAd(ecoClient, message, args)
+    
+    }else if(message.content.startsWith("+join") && !message.content.startsWith("+joined")){
+    
+        returnLink(ecoClient,message)
+
+    }else if(message.content.startsWith("+joined")){
+    
+        checkInServer(message, args, ecoClient)
+    
+    }else if(message.content.startsWith("+give") && message.author.id == pe.ADMIN_ID){
+    
+        give(message, args, ecoClient)
+    
+    }else if(message.content.startsWith("+help")){
+    
+        help(message, args, ecoClient)
+    
+    }else if(message.content.startsWith("+referral")){
+
+        refer(message,ecoClient, args)
+
+    }else if(message.content.startsWith("+roulette")){
+        
+        roulette(message,ecoClient, args);
+
+    }else if(message.content.startsWith("+random")){
+
+        guess_the_number(message, ecoClient, args)
+
+    }
+    */
